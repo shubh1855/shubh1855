@@ -26,11 +26,21 @@ I'm a Computer Science student passionate about building backend systems and exp
 
 I enjoy designing scalable applications, solving CTF challenges, contributing to open source, and continuously learning through hands-on projects.
 
-- 🛠 Building backend applications with **Go**
-- 🔐 Interested in **Cybersecurity & Security Research**
-- 🚩 Active **CTF** player
-- 🌱 Always learning something new
-- 🐧 Linux enthusiast
+- Building backend applications with **Go**
+- Interested in **Cybersecurity & Security Research**
+- Active **CTF** player
+- Always learning something new
+- Linux enthusiast
+
+---
+
+## 💻️ Currently Working On
+
+- Building **Gotcha**, a concurrent web crawler in Go
+- Learning cloud-native backend development and distributed systems
+- Progressing through **Boot.dev** backend courses
+- Exploring API Security and modern authentication
+- Playing CTFs and building security-focused tools
 
 ---
 
@@ -59,10 +69,10 @@ I enjoy designing scalable applications, solving CTF challenges, contributing to
 
 | Project                                                          | Description                                            |
 | ---------------------------------------------------------------- | ------------------------------------------------------ |
-| 🛡 **[ThreatMapper](https://github.com/shubh1855/ThreatMapper)** | LLM-powered threat modeling and attack path generation |
-| 👷 **[SafeSight](https://github.com/shubh1855/SafeSight)**       | AI-powered industrial safety monitoring with YOLOv8    |
-| 🐦 **[Chirpy](https://github.com/shubh1855/chirpy)**             | Twitter-inspired backend API built with Go             |
-| 🕷 **[Gotcha](https://github.com/shubh1855/Gotcha)**             | Concurrent web crawler and scraper written in Go       |
+| **[ThreatMapper](https://github.com/shubh1855/ThreatMapper)** | LLM-powered threat modeling and attack path generation |
+| **[SafeSight](https://github.com/shubh1855/SafeSight)**       | AI-powered industrial safety monitoring with YOLOv8    |
+| **[Chirpy](https://github.com/shubh1855/chirpy)**             | Twitter-inspired backend API built with Go             |
+| **[Gotcha](https://github.com/shubh1855/Gotcha)**             | Concurrent web crawler and scraper written in Go       |
 
 ---
 
