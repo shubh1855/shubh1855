@@ -1,0 +1,19 @@
+name: Update TryHackMe Badge
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+permissions:
+  contents: write
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Update TryHackMe Badge
+        uses: p4p1/tryhackme-badge-workflow@v1
+        with:
+          username: sHubr0
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OUTPUT_FOLDER: assets
