@@ -2,13 +2,11 @@
 
 <img src="./assets/lelouch.gif" width="100%" />
 
-# Hey, I'm Shubhranil Paul 👋
+# Hey there, I'm Shubhranil Paul 👋
 
 ### Backend Developer • Cybersecurity Enthusiast • CTF Player
 
-> _"Code. Create. Repeat."_
-
-Building software, breaking software, and learning something new every day.
+_"Build. Break. Learn. Repeat."_
 
 </div>
 
@@ -16,41 +14,55 @@ Building software, breaking software, and learning something new every day.
 
 ## 👨‍💻 About Me
 
-- Computer Science Student
-- Backend Developer specializing in **Go**
-- Passionate about Cybersecurity
-- Active CTF Player
-- Learning something new every day through personal projects
+I'm a Computer Science student passionate about backend engineering and cybersecurity.
 
-### Interests
+I enjoy building scalable backend systems, solving CTF challenges, contributing to open source, and constantly learning new technologies through hands-on projects.
 
-- Backend Engineering
-- Web Security
-- Malware Analysis
-- Reverse Engineering
-- OSINT
-- Cloud & DevOps
-- Open Source
+- 🛠 Backend Development with Go
+- 🔐 Cybersecurity & Security Research
+- 🚩 Active CTF Player
+- 🌱 Lifelong Learner
+- 💻 Linux Enthusiast
 
 ---
 
-## ⚒️ Tech Stack
+## 🎯 Current Focus
+
+- Building production-ready backend services in Go
+- Learning distributed systems
+- API Security
+- Cloud Infrastructure
+- DevOps & CI/CD
+- Security Tooling
+
+---
+
+## ⚡ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=go,python,cpp,c,js,ts,bash,git,docker,linux,postgres,mysql,mongodb,redis,nodejs,react,vim,github&perline=9" />
+<img src="https://skillicons.dev/icons?i=go,python,cpp,c,js,ts,bash,linux,git,docker,postgres,mysql,mongodb,redis,nodejs,react,github,vim&perline=9"/>
 
 </p>
 
 ---
 
-## 🚀 Currently Working On
+# ⭐ Featured Projects
 
-- Building scalable backend applications in Go
-- Security tooling
-- CTF challenges
-- Learning distributed systems
-- Open-source projects
+| Project                                                       | Description                             |
+| ------------------------------------------------------------- | --------------------------------------- |
+| **[ThreatMapper](https://github.com/shubh1855/ThreatMapper)** | LLM-powered threat modeling             |
+| **[SafeSight](https://github.com/shubh1855/SafeSight)**       | AI-powered industrial safety monitoring |
+| **[Chirpy](https://github.com/shubh1855/chirpy)**             | Twitter-inspired backend API            |
+| **[Gotcha](https://github.com/shubh1855/Gotcha)**             | Concurrent web crawler written in Go    |
+
+## 📚 Learning Platforms
+
+### Boot.dev
+
+<p align="center">
+<img src="https://api.boot.dev/v1/users/public/65b8cdd1-1377-4520-b0c1-f88ef88919f8/thumbnail"/>
+</p>
 
 ---
 
@@ -70,29 +82,13 @@ Building software, breaking software, and learning something new every day.
 
 ---
 
-# 📚 Boot.dev
-
-<p align="center">
-<img src="https://api.boot.dev/v1/users/public/65b8cdd1-1377-4520-b0c1-f88ef88919f8/thumbnail">
-</p>
-
----
-
-# 🚩 TryHackMe
-
-<p align="center">
-<img src="./assets/tryhackme-badge.svg" width="600">
-</p>
-
----
-
 # 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shubh1855&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shubh1855&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh1855&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh1855&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -102,7 +98,7 @@ Building software, breaking software, and learning something new every day.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=shubh1855&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=shubh1855&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
@@ -112,7 +108,33 @@ Building software, breaking software, and learning something new every day.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubh1855&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubh1855&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubh1855&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubh1855&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubh1855&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubh1855&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubh1855&theme=github_dark&utcOffset=5.5"/>
 
 </p>
 
@@ -120,6 +142,8 @@ Building software, breaking software, and learning something new every day.
 
 <div align="center">
 
-### Build • Break • Learn • Repeat
+## 💡 Philosophy
+
+> **Build things. Break things. Learn why they work. Repeat.**
 
 </div>
