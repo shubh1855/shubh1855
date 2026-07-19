@@ -1,12 +1,20 @@
 <div align="center">
 
-<img src="./assets/lelouch.gif" width="100%" />
+<img src="./assets/lelouch.gif" width="100%" alt="Lelouch Banner"/>
 
 # Hey there, I'm Shubhranil Paul 👋
 
-### Backend Developer • Cybersecurity Enthusiast • CTF Player
+### Backend Engineer • Cybersecurity Enthusiast • CTF Player
 
 _"Build. Break. Learn. Repeat."_
+
+<!-- Uncomment when your portfolio is live
+<p>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Live-success?style=for-the-badge"/>
+  </a>
+</p>
+-->
 
 </div>
 
@@ -14,22 +22,22 @@ _"Build. Break. Learn. Repeat."_
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student passionate about backend engineering and cybersecurity.
+I'm a Computer Science student passionate about building backend systems and exploring cybersecurity.
 
-I enjoy building scalable backend systems, solving CTF challenges, contributing to open source, and constantly learning new technologies through hands-on projects.
+I enjoy designing scalable applications, solving CTF challenges, contributing to open source, and continuously learning through hands-on projects.
 
-- 🛠 Backend Development with Go
-- 🔐 Cybersecurity & Security Research
-- 🚩 Active CTF Player
-- 🌱 Lifelong Learner
-- 💻 Linux Enthusiast
+- 🛠 Building backend applications with **Go**
+- 🔐 Interested in **Cybersecurity & Security Research**
+- 🚩 Active **CTF** player
+- 🌱 Always learning something new
+- 🐧 Linux enthusiast
 
 ---
 
-## 🎯 Current Focus
+## 🔍 Currently Exploring
 
-- Building production-ready backend services in Go
-- Learning distributed systems
+- Backend Architecture with Go
+- Distributed Systems
 - API Security
 - Cloud Infrastructure
 - DevOps & CI/CD
@@ -49,14 +57,16 @@ I enjoy building scalable backend systems, solving CTF challenges, contributing 
 
 # ⭐ Featured Projects
 
-| Project                                                       | Description                             |
-| ------------------------------------------------------------- | --------------------------------------- |
-| **[ThreatMapper](https://github.com/shubh1855/ThreatMapper)** | LLM-powered threat modeling             |
-| **[SafeSight](https://github.com/shubh1855/SafeSight)**       | AI-powered industrial safety monitoring |
-| **[Chirpy](https://github.com/shubh1855/chirpy)**             | Twitter-inspired backend API            |
-| **[Gotcha](https://github.com/shubh1855/Gotcha)**             | Concurrent web crawler written in Go    |
+| Project                                                          | Description                                            |
+| ---------------------------------------------------------------- | ------------------------------------------------------ |
+| 🛡 **[ThreatMapper](https://github.com/shubh1855/ThreatMapper)** | LLM-powered threat modeling and attack path generation |
+| 👷 **[SafeSight](https://github.com/shubh1855/SafeSight)**       | AI-powered industrial safety monitoring with YOLOv8    |
+| 🐦 **[Chirpy](https://github.com/shubh1855/chirpy)**             | Twitter-inspired backend API built with Go             |
+| 🕷 **[Gotcha](https://github.com/shubh1855/Gotcha)**             | Concurrent web crawler and scraper written in Go       |
 
-## 📚 Learning Platforms
+---
+
+## 📚 Learning
 
 ### Boot.dev
 
@@ -82,39 +92,7 @@ I enjoy building scalable backend systems, solving CTF challenges, contributing 
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shubh1855&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh1855&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=shubh1855&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubh1855&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Profile Summary
+# 📊 GitHub Overview
 
 <p align="center">
 
@@ -140,9 +118,29 @@ I enjoy building scalable backend systems, solving CTF challenges, contributing 
 
 ---
 
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=shubh1855&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubh1855&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
 <div align="center">
 
-## 💡 Philosophy
+### 💡 Philosophy
 
 > **Build things. Break things. Learn why they work. Repeat.**
 
