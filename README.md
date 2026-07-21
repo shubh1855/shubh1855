@@ -8,13 +8,11 @@
 
 _"Build. Break. Learn. Repeat."_
 
-<!-- Uncomment when your portfolio is live
 <p>
-  <a href="https://your-portfolio.com">
+  <a href="shubhsec.dev">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Live-success?style=for-the-badge"/>
   </a>
 </p>
--->
 
 </div>
 
