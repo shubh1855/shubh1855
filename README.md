@@ -9,8 +9,8 @@
 _"Build. Break. Learn. Repeat."_
 
 <p>
-  <a href="shubhsec.dev">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Live-success?style=for-the-badge"/>
+  <a href="https://shubhsec.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-shubhsec.dev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -65,8 +65,8 @@ I enjoy designing scalable applications, solving CTF challenges, contributing to
 
 # ⭐ Featured Projects
 
-| Project                                                          | Description                                            |
-| ---------------------------------------------------------------- | ------------------------------------------------------ |
+| Project                                                       | Description                                            |
+| ------------------------------------------------------------- | ------------------------------------------------------ |
 | **[ThreatMapper](https://github.com/shubh1855/ThreatMapper)** | LLM-powered threat modeling and attack path generation |
 | **[SafeSight](https://github.com/shubh1855/SafeSight)**       | AI-powered industrial safety monitoring with YOLOv8    |
 | **[Chirpy](https://github.com/shubh1855/chirpy)**             | Twitter-inspired backend API built with Go             |
